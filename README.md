@@ -2,6 +2,25 @@
 
 Учебный проект для портфолио: веб-приложение на Python, Pandas и Streamlit для сравнения двух CSV/Excel-файлов.
 
+## Скриншоты
+Реальные скриншоты демо-сверки.
+
+![Отчёт DataCheck: вердикт, метрики и найденные расхождения](screenshots/report.png)
+
+<details>
+<summary>Параметры и правила сравнения</summary>
+
+![Панель параметров DataCheck](screenshots/rules.png)
+
+</details>
+
+<details>
+<summary>Мобильный вид</summary>
+
+<img src="screenshots/mobile.png" alt="DataCheck на мобильном" width="360">
+
+</details>
+
 ## Что умеет
 - загружает два файла CSV или Excel;
 - показывает предварительный просмотр;
